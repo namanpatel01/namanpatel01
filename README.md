@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @namanpatel01
-- 👀 I’m interested in working on php laravel project.
-- 🌱 I’m currently learning Laravel framework
-- 💞️ I’m looking to collaborate on Ecommerce site
+- 👀 I’m interested in working on .Net FrameWork project.
+- 🌱 I’m currently learning Console App, Web Api, WPF Application.
 - 📫 How to reach me namanpatel204@gmail.com
 
 <!---
