@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namanpatel01
-- 👀 I’m interested in working on .Net FrameWork project.
-- 🌱 I’m currently learning Console App, Web Api, WPF Application.
+- 👀 I’m interested working as Full Stack Developer with Angular and .NET.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me namanpatel204@gmail.com
 
 <!---
